@@ -5,7 +5,7 @@ function Header(){
     return (
         <header id="header">
             <div className="header__port"><Link to="/portfolio">Portfolio</Link></div>
-            <div className="header__logo"><Link to="/">webstroyboy</Link></div>
+            <div className="header__logo"><Link to="/">westsilver</Link></div>
             <nav className="header__menu">
                 <ul>
                     <li><Link to="/about">About</Link></li>
