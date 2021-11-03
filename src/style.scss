@@ -1,0 +1,17 @@
+//index.scss
+@charset "UTF-8";
+
+//Base
+@import "./assets/styles/fonts";
+@import "./assets/styles/vars";
+@import "./assets/styles/base";
+@import "./assets/styles/mixins";
+
+//loader
+@import "./assets/styles/loader";
+
+//layout
+@import "./assets/styles/layout";
+
+//page
+@import "./assets/styles/pages";
