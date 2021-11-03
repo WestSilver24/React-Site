@@ -8,10 +8,10 @@ function Info({text}){
   }
   
   const textInfo = [
-    {text : "WE PROVIDE"},
-    {text : "VISUAL CODING"},
-    {text : "SOLUTIONS"},
-    {text : "FOR YOU WEBS"}
+    {text : "FRONT-END"},
+    {text : "DEVELOPER"},
+    {text : "WERSTSILVER"},
+    {text : "REACT CODING"}
   ]
 
 function Main(){
